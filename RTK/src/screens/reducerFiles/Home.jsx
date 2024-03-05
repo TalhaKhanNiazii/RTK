@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react';
-import MyStack from '../../navigation/StackNavigation';
+import MyStack from '../../navigation/RTKStack';
 import {useDispatch} from 'react-redux';
 import {addProduct} from '../../RTK/reducer/ProductSlice';
 import products from '../../constants/Products';

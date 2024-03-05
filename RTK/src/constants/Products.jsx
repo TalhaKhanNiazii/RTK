@@ -8,6 +8,7 @@ const products = [
     price: 59.99,
     ratings: 4.5,
     quantity: 0,
+    favourite: false,
   },
   {
     id: 2,
@@ -18,6 +19,7 @@ const products = [
     price: 39.99,
     ratings: 4.2,
     quantity: 0,
+    favourite: false,
   },
   {
     id: 3,
@@ -29,6 +31,7 @@ const products = [
     price: 29.99,
     ratings: 4.8,
     quantity: 0,
+    favourite: false,
   },
   {
     id: 4,
@@ -39,6 +42,7 @@ const products = [
     price: 49.99,
     ratings: 4.7,
     quantity: 0,
+    favourite: false,
   },
   {
     id: 5,
@@ -50,6 +54,7 @@ const products = [
     price: 79.99,
     ratings: 4.3,
     quantity: 0,
+    favourite: false,
   },
 ];
 
